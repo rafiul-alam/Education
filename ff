@@ -1,0 +1,17 @@
+form //ui button buttonlogic
+interfaces
+ 
+
+where did we use properties for encapsulation
+uses of interface
+inheritance, interface override
+Polymorphism
+Databasehelper and passing the coded data into queries so that it store into the database's table.
+
+Error message popup.
+
+common files:
+1. Database helper
+2.usercontrols cs files
+3. MenuUserControl cs file
+4. Program.cs -> global excetions , overall excetions topic
